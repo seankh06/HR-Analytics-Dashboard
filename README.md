@@ -42,7 +42,7 @@ This project presents an interactive HR analytics dashboard built using Tableau 
 
 ## Tableau Public
 
-[https://public.tableau.com/views/HumanResourcesDashboard_17843616197650/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+https://public.tableau.com/views/HumanResourcesDashboard_17843616197650/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Author
 
